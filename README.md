@@ -264,4 +264,4 @@ Open to protocol work, audits, and long-term engineering partnerships.
 
 Reach out if you're building something serious on-chain.
 
-[Telegram](https://t.me/haredoggy)
+[Telegram](https://t.me/HarrierOnChain)
